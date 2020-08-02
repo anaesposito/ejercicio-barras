@@ -1,0 +1,36 @@
+.barra {
+  width: 500px;
+  height: 30px;
+  background-color: #eaeaea;
+  padding: 3px;
+  border-radius: 100px;
+  margin: 20px;
+}
+.progreso {
+  height: 30px;
+  border-radius: 100px;
+}
+
+.uno {
+  width: 90%;
+  background-color: red;
+}
+
+.dos {
+  width: 75%;
+  background-color: orange;
+}
+
+.tres {
+  width: 50%;
+  background-color: yellow;
+}
+
+.cuatro {
+  width: 25%;
+  background-color: rgb(33, 228, 49);
+}
+.cinco {
+  width: 10%;
+  background-color: rgb(80, 214, 255);
+}
